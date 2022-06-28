@@ -3,9 +3,10 @@
     float: none;
     display: flex;
     flex-wrap: wrap;
-    margin-top: 7%;
-    margin-bottom: 5%;
-    margin-left: 25%;
+    align-items: center;
+    justify-content: center;
+
+
 }
 h2{
     font-family: 'Big Shoulders display';
@@ -22,6 +23,8 @@ p{
     width: 200px;
     padding: 1em;
     height: 50%;
+
+
 }
 .column2{
     background-color: hsl(184, 100%, 22%);
