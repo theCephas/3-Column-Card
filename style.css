@@ -2,16 +2,9 @@
 .container{
     display: flex;
     flex-wrap: wrap;
-<<<<<<< HEAD
     justify-content: center;
     align-items: center;
     margin: 90px auto;
-=======
-    align-items: center;
-    justify-content: center;
-
-
->>>>>>> 539e198eaef7afecf9a982e6525c78a4708d5431
 }
 h2{
     font-family: 'Big Shoulders display';
@@ -27,13 +20,7 @@ p{
     background-color: hsl(31, 77%, 52%);
     width: 200px;
     padding: 1em;
-<<<<<<< HEAD
     height: 30%;
-=======
-    height: 50%;
-
-
->>>>>>> 539e198eaef7afecf9a982e6525c78a4708d5431
 }
 .column2{
     background-color: hsl(184, 100%, 22%);
